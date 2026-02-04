@@ -53,7 +53,14 @@ In the header, you can customize your airline
     "bgcolor": "darkblue",      // The background color of the name in LiverySelector
     "aircrafts": {
 ...
-```
+...
+take this for example
+
+    "name": "Fly Hong Kong", // Fly Hong Kong
+    "color": "yellow,black", // yellow
+    "bgcolor": "white",      // white
+    "aircrafts": {a220-300,787-9,a321neo}
+...
 
 The liveries are stored in your airline.json as JSON objects. Into the [] brackets of **"liveies"** you can add several of them. In the **"texture"** array The links to textures are listed as they are ordered in the **"labels"** array. For most planes, you can cheat from the [livery.json](https://github.com/kolos26/GEOFS-LiverySelector/blob/main/livery.json), which is the main database where liveries are stored. The airline.json is designed to be easier to use, so there are minor differences in the structure. The most important one is that when a plane has only one texture file applied, and no shaders are used, you only need to add the link once (unlike the livery.json, where it depends on how many times each texture is used on the plane).
 
