@@ -1,0 +1,45 @@
+{
+    "name": "Fly Hong Kong", // Fly Hong Kong
+    "color": "yellow,black", // yellow
+    "bgcolor": "white",      // white
+    "aircrafts": {a220-300,787-9,a321neo}
+...
+{
+    "name": "Fly Hong Kong", // Name of your airline
+    "color": "yellow,black",            // The color of the name in LiverySelector
+    "bgcolor": "white",     // The background color of the name in LiverySelector
+    "aircrafts": {a220-300,787-9,a321neo
+...
+{
+    "name": "fly hong kong", // Fly hong kong
+    "color": "yellow,black",             // yellow
+    "bgcolor": "white",      // white
+    "aircrafts": {a220-300,a321neo,787-9}
+aircraft": "A220-300",
+    "airline": "Fly Hong Kong",
+    "livery": "Standard Yellow/Black",
+    "texture": "https://raw.githack.com/YourUsername/YourRepo/main/FlyHongKong_A220-300.png",
+    "thumbnail": "https://raw.githubusercontent/Airplanesaviation2361/geofs-flyhongkong-livery/main/thumb_fhk_A220-300.png"
+    "author": "airplanesaviation2361",
+    "description": "Yellow fuselage, black engines, black titles, white underside",
+    "year": 2026
+  
+  {
+    "aircraft": "B787-9",
+    "airline": "Fly Hong Kong",
+    "livery": "Standard Yellow/Black",
+    "texture": "https://raw.githack.com/YourUsername/YourRepo/main/FlyHongKong_787-9.png",
+    "thumbnail": "https://raw.githubusercontent/Airplanesaviation2361/geofs-flyhongkong-livery/main/thumb_fhk_7879.png"
+    "author": "airplanesaviation2361",
+    "description": "Yellow fuselage, black engines, black titles, white underside",
+    "year": 2026
+  
+  {
+    "aircraft": "A321neo",
+    "airline": "Fly Hong Kong",
+    "livery": "Standard Yellow/Black",
+    "texture": "https://raw.githack.com/YourUsername/YourRepo/main/FlyHongKong_A321neo.png",
+    "thumbnail": "https://raw.githubusercontent/Airplanesaviation2361/geofs-flyhongkong-livery/main/thumb_fhk_A321neo.png"
+    "author": "YourName",
+    "description": "Yellow fuselage, black engines, black titles, white underside",
+    "year": 2026
